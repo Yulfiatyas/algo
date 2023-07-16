@@ -69,7 +69,7 @@ else:
    
    
 #perhitungan
-rata = (b_ind+b_ing+pd+mtk+kal1)/5
+rata = (plj_id+plj_ig+plj_pd+plj_mtk+plj_kal1)/5
 
 if(rata >0 and rata <=60) :
     grade_rata = ("C")
